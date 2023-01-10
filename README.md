@@ -44,6 +44,14 @@ I prefer React for Frontend development. And Django for the Backend side..
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <br>
 
+<h2 align="center"> My projects</h2>
+
+###
+
+  Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[Movie App]<h3>[Repo](https://github.com/SadiKISLAR/movie-app-with-react)</h3> | ReactJS, Firebase Authentication,Styled Components,Tailwind CSS, React Toastify, The Movie Database Api   | ![movie app](https://user-images.githubusercontent.com/108137435/211585264-2c39aaee-1397-4fc0-bbc0-04ebeb31e7ec.gif)
+
 
 <!--## 📈 Statistics
 <p align="left">
