@@ -55,6 +55,7 @@ I prefer React for Frontend development. And Django for the Backend side..
 [Random User App]<h3>[Repo](https://github.com/SadiKISLAR/random-user-with-react)</h3> | ReactJS, SASS  | ![random user](https://user-images.githubusercontent.com/108137435/213372131-7fbba6b9-0859-4079-8b62-cfe0eb282544.gif)
 [Tour Places]<h3>[Repo](https://github.com/SadiKISLAR/tour-pages)</h3> | ReactJS | ![random user](https://user-images.githubusercontent.com/108137435/213378528-bbf4db2f-75cb-4698-a3df-15a64895daa1.gif)
 [Country Around The World]<h3>[Repo](https://github.com/SadiKISLAR/flags)</h3> | ReactJS | ![random user](https://user-images.githubusercontent.com/108137435/214068832-570ee1d2-732d-4756-9f5d-829a9629adec.gif)
+[Blog App (FullStack)]<h3>[Repo](https://github.com/SadiKISLAR/blog-app-with-react)</h3> | ReactJS, Axios, Toastify, MetarialUi | ![2-min](https://user-images.githubusercontent.com/108137435/230941594-34910f5c-377e-464d-b6d7-a206e19b452f.gif)
 
 
 <!--## 📈 Statistics
